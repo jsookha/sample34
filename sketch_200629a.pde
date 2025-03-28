@@ -1,4 +1,7 @@
 /*
+
+Name: Jessel Sookha 
+
 MAP GPS COORDINATES TO THE SCREEN
  Jeff Thompson | 2013 | www.jeffreythompson.org
  
